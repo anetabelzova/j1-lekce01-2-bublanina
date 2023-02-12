@@ -40,7 +40,19 @@ public class SpousteciTrida {
         // Pouzivejte napovidani v editoru.
         // Vyskakuje samo nebo pomoci Ctrl+Mezernik
 
+        //1.
         cervenaMiska.nalozSiJedenKus(vajicka);
+        for(int i=0; i<4;i++){
+
+        }
+        cervenaMiska.nalozSiCelyObsah(pytlikCukru);
+        mixer.zamichej(cervenaMiska);
+        //2.
+        cervenaMiska.nalozSiCelyObsah(maslo125g);
+        mixer.zamichej(cervenaMiska);
+
+
+
     }
 
 }
